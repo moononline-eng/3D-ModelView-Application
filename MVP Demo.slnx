@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MVP Demo/MVP Demo.vcxproj" Id="bf923069-8697-46bb-9ca6-dff8ead5860e" />
+</Solution>
