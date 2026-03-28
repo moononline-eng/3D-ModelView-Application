@@ -134,7 +134,7 @@ No external installation required.
 ---
 
 
-## 📸 Output
+## Output
 
 The program displays:
 
