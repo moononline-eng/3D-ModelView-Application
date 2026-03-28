@@ -1,6 +1,6 @@
 # OpenGL MVP Demo
 
-A modular **OpenGL 3.3+** project demonstrating a clean rendering pipeline using the **Model–View–Projection (MVP)** transformation system.
+A modular **OpenGL 3.3** project demonstrating a clean rendering pipeline using the **Model–View–Projection (MVP)** transformation system.
 This project renders a **textured, rotating 3D pyramid** while showcasing a structured, object-oriented approach to OpenGL.
 
 This implementation is based on concepts from the excellent resource [LearnOpenGL](https://learnopengl.com/), extended and refactored into a more reusable design.
@@ -28,10 +28,10 @@ This project focuses on:
 
 ## Features
 
-* Modern OpenGL (Core Profile, 3.3+)
+* Modern OpenGL (Core Profile, 3.3)
 * MVP transformation pipeline (Model, View, Projection)
 * Textured 3D object (pyramid)
-* Custom shader system (GLSL)
+* Custom shaders written in GLSL
 * Clean abstraction of OpenGL objects
 * Minimal dependencies (GLFW, GLAD, GLM, stb_image)
 
