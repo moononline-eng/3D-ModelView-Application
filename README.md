@@ -1,4 +1,4 @@
-# 🔺 OpenGL MVP Demo
+# OpenGL MVP Demo
 
 A modular **OpenGL 3.3+** project demonstrating a clean rendering pipeline using the **Model–View–Projection (MVP)** transformation system.
 This project renders a **textured, rotating 3D pyramid** while showcasing a structured, object-oriented approach to OpenGL.
@@ -9,13 +9,13 @@ This repository serves as a foundational layer. To maintain a clean architectura
 
 ---
 
-## 🎥 Demo
+## Demo
 
 ![Demo](demo.gif)
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 This project focuses on:
 
@@ -26,7 +26,7 @@ This project focuses on:
 ---
 
 
-## 🚀 Features
+## Features
 
 * Modern OpenGL (Core Profile, 3.3+)
 * MVP transformation pipeline (Model, View, Projection)
@@ -37,7 +37,7 @@ This project focuses on:
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```
 MVP Demo/
@@ -62,7 +62,7 @@ MVP Demo/
 
 ---
 
-## 🧠 Architecture Overview
+## Architecture Overview
 
 This project avoids messy OpenGL code by wrapping core functionality into reusable classes:
 
@@ -95,7 +95,7 @@ This project avoids messy OpenGL code by wrapping core functionality into reusab
 ---
 
 
-## 🛠️ Dependencies
+## Dependencies
 
 This project includes all required libraries locally:
 
@@ -108,7 +108,7 @@ No external installation required.
 
 ---
 
-## ▶️ How to Build & Run
+## Run instructions
 
 ### Requirements
 
@@ -118,33 +118,21 @@ No external installation required.
 ### Steps
 
 1. Open:
-
    ```
    MVP Demo.vcxproj
    ```
-
    in Visual Studio
 
 2. Set configuration:
-
    * **x64**
    * **Debug** or **Release**
 
 3. Build and run:
-
    ```
-   Ctrl + F5
+   Ctrl+F5
    ```
-
 ---
 
-## 🎮 Controls
-
-| Key | Action           |
-| --- | ---------------- |
-| ESC | Exit application |
-
----
 
 ## 📸 Output
 
@@ -156,8 +144,7 @@ The program displays:
 
 ---
 
-
-## 📌 Future Improvements
+## Future Improvements
 
 * Multiple objects
 * Camera movement
