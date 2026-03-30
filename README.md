@@ -23,3 +23,6 @@ This implementation is based on concepts from the excellent resource [LearnOpenG
 ## Run
 - Open `MVP Demo.vcxproj` in Visual Studio  
 - Build & run (x64)
+
+## Notes
+This repository serves as a foundational layer. To maintain a clean architectural history further developments will be continued in a future repository.
