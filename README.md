@@ -1,7 +1,7 @@
-# OpenGL MVP Demo
+# OpenGL demo
 
-A modular **OpenGL 3.3** project implementing a clean **Model–View–Projection (MVP)** rendering pipeline.  
-Renders a **textured, rotating 3D pyramid** with a structured C++ design.
+An OpenGL 3.3 project implementing a clean Model–View–Projection rendering pipeline.  
+Renders a textured, rotating 3D pyramid with a structured C++ design.
 
 This implementation is based on concepts from the excellent resource [LearnOpenGL](https://learnopengl.com/), extended and refactored into a more reusable design.
 
